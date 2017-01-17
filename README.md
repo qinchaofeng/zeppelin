@@ -17,6 +17,7 @@ Core feature:
 
 To know more about Zeppelin, visit our web site [http://zeppelin.apache.org](http://zeppelin.apache.org)
 
+To share your Zeppelin notebooks, visit our web site https://www.zeppelinhub.com
 
 ## Getting Started
 
